@@ -17,7 +17,7 @@ you can use this link for tutorials: [Digital Ocean tutorials](https://dat3cph.g
 3. Run the main method in the Main class to start the server on port 7070
 4. See the routes in your browser at `http://localhost:7070/routes`
 5. Request the `http://localhost:7070/hotels` endpoint in your browser to see the list of hotels and rooms
-6. Use the dev.http file to test the routes, GET/POST/PUT/DELETE requests are available
+6. Use the dev.http file to test the routes, GET/POST/PUT/DELETE requests are available.
 
 ## Docker commands
 
